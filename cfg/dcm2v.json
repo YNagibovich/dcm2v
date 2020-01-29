@@ -1,0 +1,13 @@
+{
+    "source": "./input",
+    "destination": "./output.mp4",
+    "encoder": "h264",
+    "fps": "30",
+    "gop": "30",
+    "rc": "cbr",
+    "frameduration": "1",
+    "width": "1920",
+    "height": "1080",
+    "threads": "0",
+    "quality": "50"
+}
